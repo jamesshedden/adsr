@@ -1,0 +1,20 @@
+{
+  "name": "jsbp",
+  "version": "0.0.1",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.2.19",
+    "browserify": "^5.9.1",
+    "gulp": "^3.8.7",
+    "gulp-browserify": "^0.5.0",
+    "gulp-concat": "^2.3.4",
+    "gulp-connect": "^2.0.6",
+    "gulp-jshint": "^1.8.4",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^0.7.2",
+    "gulp-uglify": "^0.3.1",
+    "gulp-util": "^3.0.0",
+    "gulp-open": "^0.2.8",
+    "gulp-autoprefixer": "0.0.8"
+  }
+}

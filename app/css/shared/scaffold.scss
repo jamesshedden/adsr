@@ -1,0 +1,19 @@
+@import 'variables';
+
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+	background: $body-background-color;
+	margin: 0;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid rgba(0,0,0,0.2);
+}
