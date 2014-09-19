@@ -11,9 +11,17 @@ html {
 body {
 	background: $body-background-color;
 	margin: 0;
+	font-family: Arvo;
 }
 
 hr {
 	border: 0;
 	border-top: 1px solid rgba(0,0,0,0.2);
+}
+
+a {
+	color: $link-color;
+	&:hover {
+		text-decoration: underline;
+	}
 }
